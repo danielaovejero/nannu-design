@@ -1,0 +1,6 @@
+{
+  "name": "Imprenta Gráfica Nannu Desing",
+  "description": "Landing page premium para Imprenta Gráfica Nannu Desing, con galería de trabajos, calculadora interactiva de presupuestos y un asistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
