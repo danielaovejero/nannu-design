@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import { GoogleGenAI } from "@google/genai";
-import { FAQS_DATA, CLIENT_FALLBACK_ANSWER } from "../src/data/faqs";
+import { FAQS_DATA, CLIENT_FALLBACK_ANSWER } from "./faqs.js";
 
 const app = express();
 app.use(express.json());

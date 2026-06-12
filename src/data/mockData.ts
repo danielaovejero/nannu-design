@@ -11,7 +11,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Lona Backlight: Lona translúcida especial para marquesinas con cajón de luz interno.",
       "Lona Mesh (Microperforada): Ideal para zonas de viento fuerte o coberturas de fachadas gigantes."
     ],
-    bannerUrl: "/assets/images/1.jpeg",
+    bannerUrl: "/images/1.jpeg",
     colorName: "cyan"
   },
   {
@@ -25,7 +25,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "MDF, PVC y Acero Inoxidable: Para estéticas rústicas, corporativas o eternamente sofisticadas.",
       "Retroiluminación LED: Para máxima visibilidad nocturna con bajo consumo eléctrico."
     ],
-    bannerUrl: "/assets/images/2.jpeg",
+    bannerUrl: "/images/2.jpeg",
     colorName: "fuchsia"
   },
   {
@@ -38,7 +38,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Estructuras dobles reforzadas resistentes para carteles monumentales.",
       "Montaje en altura seguro con perfiles de acero anticorrosión."
     ],
-    bannerUrl: "/assets/images/3.jpeg",
+    bannerUrl: "/images/3.jpeg",
     colorName: "violet"
   },
   {
@@ -51,7 +51,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Señaladores internos de acrílico y PVC para oficinas, sanitarios y salidas.",
       "Tótem exterior autoportante corporativo de alta gama."
     ],
-    bannerUrl: "/assets/images/4.jpeg",
+    bannerUrl: "/images/4.jpeg",
     colorName: "amber"
   },
   {
@@ -66,7 +66,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Microperforados Certificados: Publicidad exterior perfecta manteniendo visibilidad interior.",
       "Rotulación Vehicular: Ploteos de vehículos particulares, comerciales o flotas corporativas."
     ],
-    bannerUrl: "/assets/images/5.png",
+    bannerUrl: "/images/5.png",
     colorName: "emerald"
   },
   {
@@ -80,7 +80,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Backdrops (Backs de prensa/fotocromos) con estructura desarmable ágil.",
       "Stands promocionales de PVC reforzados de armado rápido."
     ],
-    bannerUrl: "/assets/images/6.jpg",
+    bannerUrl: "/images/6.jpg",
     colorName: "cyan"
   },
   {
@@ -94,7 +94,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Etiquetas troqueladas personalizadas en bobina o plancha, perfectas para packaging.",
       "Menús gastronómicos resistentes al agua y manteles individuales impresos."
     ],
-    bannerUrl: "/assets/images/7.webp",
+    bannerUrl: "/images/7.webp",
     colorName: "violet"
   }
 ];
@@ -104,56 +104,56 @@ export const PORTFOLIO_DATA: PortfolioItem[] = [
     id: "work-1",
     title: "Marquesina de Acrílico Retroiluminado",
     category: "Carteles",
-    imageUrl: "/assets/images/a.jpeg",
+    imageUrl: "/images/a.jpeg",
     description: "Letras corpóreas de acrílico premium con iluminación LED indirecta para fachada gastronómica."
   },
   {
     id: "work-2",
     title: "Gigantografía Lona Mesh en Altura",
     category: "Lonas",
-    imageUrl: "/assets/images/b.jpeg",
+    imageUrl: "/images/b.jpeg",
     description: "Impresión y tensado de lona microperforada mesh de 12x4 metros para fachada de edificio corporativo."
   },
   {
     id: "work-3",
     title: "Ploteo Integral de Flota de Distribución",
     category: "Vehículos",
-    imageUrl: "/assets/images/c.jpeg",
+    imageUrl: "/images/c.jpeg",
     description: "Rotulación completa con vinilo fundido de alta adherencia para camioneta de reparto."
   },
   {
     id: "work-4",
     title: "Esmerilado de Privacidad para Oficinas",
     category: "Vinilos",
-    imageUrl: "/assets/images/d.jpeg",
+    imageUrl: "/images/d.jpeg",
     description: "Aplicación de vinilo esmerilado con diseño de bandas horizontales en salas de reuniones corporativas."
   },
   {
     id: "work-5",
     title: "Stand Promocional y Backdrop de Prensa",
     category: "Eventos",
-    imageUrl: "/assets/images/e.jpeg",
+    imageUrl: "/images/e.jpeg",
     description: "Fondo de prensa con lona tensada libre de arrugas y banners roll-ups coordinados para congreso."
   },
   {
     id: "work-6",
     title: "Tarjetas Premium con Laca UV Sectorizada",
     category: "Papelería",
-    imageUrl: "/assets/images/f.jpeg",
+    imageUrl: "/images/f.jpeg",
     description: "Tarjetas de presentación en papel ilustración de 350g con acabado mate y laca UV sectorizada en relieves."
   },
   {
     id: "work-7",
     title: "Letras de Polyfan Corporativas",
     category: "Carteles",
-    imageUrl: "/assets/images/g.jpg",
+    imageUrl: "/images/g.jpg",
     description: "Monograma en corpóreo de polyfan pintado a tono para recepción de estudio contable."
   },
   {
     id: "work-8",
     title: "Ploteo de Vidrieras Microperforado",
     category: "Vinilos",
-    imageUrl: "/assets/images/h.jpg",
+    imageUrl: "/images/h.jpg",
     description: "Vinilo microperforado impreso en alta calidad cubriendo vidriera exterior de tienda deportiva."
   }
 ];
